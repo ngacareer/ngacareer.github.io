@@ -11,13 +11,14 @@ hasCJKLanguage = true
     unsafe = true # Allow user HTML tags
 
 [params]
-    author = "Nga Career"
-    avatar = "avatar.jpg"
+    author = "NgaCareer"
+    #avatar = "avatar.jpg"
+    avatar = "ngacareer.jpg"
     # avatarDescription = "My avatar description"
-    favicon = "favicon.ico"
+    #favicon = "favicon.ico"
+    favicon = "icon-ngacareer.png"
     description = """
-        Please write anything here.
-        Profiles, backgrounds, favorite things etc.
+        Welcome to the NgaCareer Open Source Community. Click on the "edit" icon below to see contributors list. Fork the repo and check the README.md
     """
     publicationYear = "2020"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
@@ -34,26 +35,26 @@ hasCJKLanguage = true
     identifier = "blog"
     # name = "Blog" #If display text link, cancel comment out
     pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
-    url = "/blog/"
+    url = "https://medium.com/NgaCareer"
     weight = 10
 
 [[menu.main]]
     identifier = "twitter"
     # name = "Twitter"
     pre = "<i class='fab fa-twitter fa-lg'></i>"
-    url = "https://twitter.com/username"
+    url = "https://twitter.com/ngacareer"
     weight = 20
 
 [[menu.main]]
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
-    url = "https://github.com/username"
+    url = "https://github.com/ngacareer"
     weight = 30
 
 [[menu.main]]
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
-    url = "mailto:username@example.com"
+    url = "mailto:ms@ngacareer.com"
     weight = 40
