@@ -1,4 +1,4 @@
-baseurl = "/public/"
+baseurl = "https://ngacareer.github.io/public"
 title = "ngacareer on github"
 theme = "pulp"
 canonifyurls = true
