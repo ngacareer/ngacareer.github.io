@@ -11,7 +11,7 @@ hasCJKLanguage = true
     unsafe = true # Allow user HTML tags
 
 [params]
-    author = "Your Name"
+    author = "Nga Career"
     avatar = "avatar.jpg"
     # avatarDescription = "My avatar description"
     favicon = "favicon.ico"
@@ -19,7 +19,7 @@ hasCJKLanguage = true
         Please write anything here.
         Profiles, backgrounds, favorite things etc.
     """
-    publicationYear = "2019"
+    publicationYear = "2020"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
     # singlePageDateFormat = "January 2, 2006"
     # custom_css = ["/css/custom.css"]
