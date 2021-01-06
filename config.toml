@@ -1,5 +1,5 @@
 baseurl = "https://ngacareer.github.io/"
-title = "ngacareer github"
+title = "NgaCareer GitHub"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
