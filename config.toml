@@ -1,5 +1,5 @@
-baseurl = "https://example.com/"
-title = "Site Title"
+baseurl = "https://ngacareer.github.io/"
+title = "ngacareer github"
 theme = "pulp"
 canonifyurls = true
 hasCJKLanguage = true
