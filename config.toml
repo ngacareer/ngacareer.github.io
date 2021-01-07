@@ -33,35 +33,63 @@ hasCJKLanguage = true
 
 [[menu.main]]
     identifier = "Contributors"
-    # name = "Contributors" #If display text link, cancel comment out
+    #name = "Contributors"
     pre = "<i class='fa fa-edit fa-lg'></i>"
-    url = "/contributor"
+    url = "/contributors"
     weight = 10
+
+[[menu.main]]
+    identifier = "Conferences"
+    #name = "Conferences"
+    pre = "<i class='fa fa-blog fa-lg'></i>"
+    url = "/conferences/conferences"
+    weight = 20
 
 [[menu.main]]
     identifier = "blog"
     # name = "Blog" #If display text link, cancel comment out
     pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
     url = "https://medium.com/NgaCareer"
-    weight = 10
+    weight = 30
 
 [[menu.main]]
     identifier = "twitter"
     # name = "Twitter"
     pre = "<i class='fab fa-twitter fa-lg'></i>"
     url = "https://twitter.com/ngacareer"
-    weight = 20
+    weight = 40
 
 [[menu.main]]
     identifier = "github"
     # name = "GitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
     url = "https://github.com/ngacareer"
-    weight = 30
+    weight = 50
+
+[[menu.main]]
+    identifier = "Facebook"
+    # name = "Facebook"
+    pre = "<i class='fab fa-facebook fa-lg'></i>"
+    url = "https://www.facebook.com/ngacareer"
+    weight = 60
+
+[[menu.main]]
+    identifier = "Youtube"
+    # name = "Facebook"
+    pre = "<i class='fab fa-youtube fa-lg'></i>"
+    url = "https://www.youtube.com/ngacareer"
+    weight = 70
+
+[[menu.main]]
+    identifier = "Instagram"
+    # name = "Instagram"
+    pre = "<i class='fab fa-instagram fa-lg'></i>"
+    url = "https://www.instagram.com/ngacareer"
+    weight = 80
 
 [[menu.main]]
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:ms@ngacareer.com"
-    weight = 40
+    weight = 90
