@@ -42,7 +42,7 @@ hasCJKLanguage = true
     identifier = "conferences"
     #name = "Conferences"
     pre = "<i class='fa fa-blog fa-lg'></i>"
-    url = "/conferences/"
+    url = "conferences/conferences/"
     weight = 20
 
 [[menu.main]]
