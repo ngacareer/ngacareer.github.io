@@ -128,4 +128,4 @@ List of conferences/workshops which are relevant and useful for Tech enthusiasts
 | Kafka Summit Americas 2021         | 14, 15 Sep 2021  | Register(Not Announced yet) | Virtual (Free) | PST | |  
 
 ### Missing any conference
-Do raise a pull request to this [repo](https://github.com/ngacareer/ngacareer-src.git/tree/main/content/conferences) to add/update conference information.
+Do raise a pull request to this [repo](https://github.com/ngacareer/ngacareer-src/tree/main/content/conferences) to add/update conference information.
