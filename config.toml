@@ -1,4 +1,5 @@
 baseurl = "https://ngacareer.github.io/public/"
+languageCode = "en-us"
 title = "ngacareer on github"
 theme = "pulp"
 canonifyurls = true
@@ -51,46 +52,46 @@ hasCJKLanguage = true
     pre = "<i class='fa fa-book-open fa-lg'></i>" #Choose your favorite font from Font Awesome
     url = "https://medium.com/NgaCareer"
     #url = "/blog/"
-    weight = 10
+    weight = 3
 
 [[menu.main]]
     identifier = "twitter"
     # name = "twitter"
     pre = "<i class='fab fa-twitter fa-lg'></i>"
     url = "https://twitter.com/ngacareer"
-    weight = 20
+    weight = 4
 
 [[menu.main]]
     identifier = "github"
     # name = "gitHub"
     pre = "<i class='fab fa-github fa-lg'></i>"
     url = "https://github.com/ngacareer"
-    weight = 30
+    weight = 5
 
 [[menu.main]]
     identifier = "facebook"
     # name = "facebook"
     pre = "<i class='fab fa-facebook fa-lg'></i>"
     url = "https://www.facebook.com/ngacareer"
-    weight = 31
+    weight = 6
 
 [[menu.main]]
     identifier = "youtube"
     # name = "youtube"
     pre = "<i class='fab fa-youtube fa-lg'></i>"
     url = "https://www.youtube.com/ngacareer"
-    weight = 32
+    weight = 7
 
 [[menu.main]]
     identifier = "instagram"
     # name = "instagram"
     pre = "<i class='fab fa-instagram fa-lg'></i>"
     url = "https://www.instagram.com/ngacareer"
-    weight = 33
+    weight = 8
 
 [[menu.main]]
     identifier = "email"
     # name = "Email"
     pre = "<i class='fa fa-envelope fa-lg'></i>"
     url = "mailto:ms@ngacareer.com"
-    weight = 40
+    weight = 9
