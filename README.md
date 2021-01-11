@@ -1,4 +1,4 @@
-# TechPrimers Open Source
+# NgaCareer Open Source
 
 [![Build Status](https://travis-ci.com/ngacareer/ngacareer.github.io.svg?branch=master)](https://travis-ci.com/ngacareer/ngacareer.github.io)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
