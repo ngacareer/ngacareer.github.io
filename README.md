@@ -34,8 +34,8 @@ This project exists thanks to all the people who contribute.
 ## Checkout
 The below steps are for checking out this codebase.
 ```
-git clone https://github.com/ngacareer/ngacareer.github.io.git techprimers-repo
-cd techprimers-repo
+git clone https://github.com/ngacareer/ngacareer.github.io.git ngacareer-repo
+cd ngacareer-repo
 git submodule init
 git submodule update
 ```
