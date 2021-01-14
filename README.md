@@ -1,6 +1,6 @@
 # NgaCareer Open Source
 
-[![Build Status](https://travis-ci.com/ngacareer/ngacareer.github.io.svg?branch=master)](https://travis-ci.com/ngacareer/ngacareer.github.io)
+[![Build Status](https://travis-ci.com/ngacareer/ngacareer.github.io.svg?branch=main)](https://travis-ci.com/ngacareer/ngacareer.github.io)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/ngacareer/ngacareer.github.io.svg)](https://github.com/ngacareer/ngacareer.github.io/stargazers)
